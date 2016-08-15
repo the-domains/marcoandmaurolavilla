@@ -10,6 +10,12 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
+opengraph:
+  type: ''
 layout_spectrum: 0.01748779439367354
+author:
+  name: Marco and Mauro La Villa
+  email: info@easterncanal.com
+  url: marcoandmaurolavilla.com
 name: marcoandmaurolavilla
 title: Hello
