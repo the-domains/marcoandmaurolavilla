@@ -1,4 +1,3 @@
-layout_spectrum: 0.01748779439367354
 typography_spectrum: 0.5220646683592349
 color:
   brandStrength: 0.8224947932176292
@@ -6,9 +5,11 @@ color:
   saturation: 0.14504283014684916
   rhythmicContrast: 0.1752328926231712
   brandColors:
-    - '#FF8000'
-    - '#FFD933'
-    - '#CCCC52'
-    - '#8FB359'
-    - '#192B33'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+layout_spectrum: 0.01748779439367354
 name: marcoandmaurolavilla
+title: Hello
