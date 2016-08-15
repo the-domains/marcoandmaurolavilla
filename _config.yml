@@ -18,4 +18,8 @@ author:
   email: info@easterncanal.com
   url: marcoandmaurolavilla.com
 name: marcoandmaurolavilla
+navigation:
+  - name: Filmmakers
+    url: marcoandmaurolavilla.com
+    type: external
 title: Hello
